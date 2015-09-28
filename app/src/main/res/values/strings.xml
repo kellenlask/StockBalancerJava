@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StockBalancerJava</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LoadingText">Fetching web resources...</string>
+    <string name="Refresh">Refresh</string>
+    <string name="ticker">TICKER</string>
+    <string name="action">ACTION</string>
+    <string name="newPercentage">PERCENT</string>
+</resources>
